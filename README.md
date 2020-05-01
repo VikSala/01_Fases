@@ -4,7 +4,7 @@ Este proyecto ha sido desarrollado a partir de un [curso](https://www.udemy.com/
 
 Este material es open source, puedes descargarlo, modificarlo, probarlo...
 
-Víctor Sala Zamora
+Víctor Sala Zamora.
 
 ---
 
